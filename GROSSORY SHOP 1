@@ -13,12 +13,11 @@ public class Solution {
         int c=sc.nextInt();
         int d=sc.nextInt();
         System.out.println("Items Details");
-        System.out.println("A4 sheet:"+a);
-        System.out.println("pen:"+b);
-        System.out.println("pencil:"+c);
+        System.out.println("A4sheet:"+a);
+        System.out.println("Pen:"+b);
+        System.out.println("Pencil:"+c);
         System.out.println("Eraser:"+d);
         
         
         
     }
-}
